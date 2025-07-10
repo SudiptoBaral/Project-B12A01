@@ -55,3 +55,27 @@
 .banner-button{
     text-align: center;
 }
+/* acton section */
+.content-center{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.action-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 116px;
+}
+.action-content1{
+    width: 517px;
+}
+.action-heading{
+    font-size: 42px;
+    font-weight: bold;
+}
+.action-pragraph{
+    font-size: 24px;
+}
+.action-img{
+    border-radius: 48px;
+}
